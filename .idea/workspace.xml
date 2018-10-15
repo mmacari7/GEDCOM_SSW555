@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78853255-c195-426f-b6d6-edd87fcf96db" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/GEDCOM_SSW555$Unittests_in_test_GEDCOM_Project_py.coverage" NAME="Unittests in test_GEDCOM_Project.py Coverage Results" MODIFIED="1533225328885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GEDCOM_SSW555$GEDCOM_Project.coverage" NAME="GEDCOM_Project Coverage Results" MODIFIED="1533224644596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GEDCOM_SSW555$test_GEDCOM_Project.coverage" NAME="test_GEDCOM_Project Coverage Results" MODIFIED="1533221693158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="GEDCOM_Project.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17068">
+              <caret line="1004" column="64" lean-forward="true" selection-start-line="1004" selection-start-column="64" selection-end-line="1004" selection-end-column="64" />
+              <folding>
+                <element signature="e#249#267#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_GEDCOM_Project.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22899">
+              <caret line="1350" column="35" selection-start-line="1350" selection-start-column="35" selection-end-line="1350" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/GEDCOM_Project.py" />
+        <option value="$PROJECT_DIR$/test_GEDCOM_Project.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-547" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GEDCOM_SSW555" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GEDCOM_SSW555" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Software_Work/Python Programs/HDF5_Parsing_PythonCode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in test_GEDCOM_Project.py">
+    <configuration name="GEDCOM_Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GEDCOM_SSW555" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GEDCOM_Project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_GEDCOM_Project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="GEDCOM_SSW555" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_GEDCOM_Project.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests in test_GEDCOM_Project.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="GEDCOM_SSW555" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_GEDCOM_Project.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.GEDCOM_Project" />
+      <item itemvalue="Python tests.Unittests in test_GEDCOM_Project.py" />
+      <item itemvalue="Python.test_GEDCOM_Project" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in test_GEDCOM_Project.py" />
+        <item itemvalue="Python.GEDCOM_Project" />
+        <item itemvalue="Python.test_GEDCOM_Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78853255-c195-426f-b6d6-edd87fcf96db" name="Default" comment="" />
+      <created>1529679066807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529679066807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 13m 34s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 14m 23s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 19m 49s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 20m 25s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 47m 02s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 49m 02s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 51m 01s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 53m 16s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 54m 59s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_GEDCOM_Project_py - 2018.08.02 at 11h 55m 29s.xml">
+      <configuration name="Unittests in test_GEDCOM_Project.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-547" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33660132" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3137255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15725">
+          <caret line="925" column="64" lean-forward="true" selection-start-line="925" selection-start-column="64" selection-end-line="925" selection-end-column="64" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22015">
+          <caret line="1295" column="35" selection-start-line="1295" selection-start-column="35" selection-end-line="1295" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16609">
+          <caret line="981" column="28" lean-forward="true" selection-start-line="981" selection-start-column="28" selection-end-line="981" selection-end-column="28" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4471">
+          <caret line="266" column="65" selection-start-line="266" selection-start-column="65" selection-end-line="266" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4471">
+          <caret line="266" column="65" selection-start-line="266" selection-start-column="65" selection-end-line="266" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14790">
+          <caret line="874" column="64" selection-start-line="874" selection-start-column="64" selection-end-line="874" selection-end-column="64" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19329">
+          <caret line="1140" column="53" selection-start-line="1140" selection-start-column="53" selection-end-line="1140" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14858">
+          <caret line="874" column="64" selection-start-line="874" selection-start-column="64" selection-end-line="874" selection-end-column="64" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19380">
+          <caret line="1140" column="53" lean-forward="true" selection-start-line="1140" selection-start-column="53" selection-end-line="1140" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6970">
+          <caret line="415" lean-forward="true" selection-start-line="415" selection-end-line="415" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9316">
+          <caret line="550" column="49" selection-start-line="550" selection-start-column="49" selection-end-line="550" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7276">
+          <caret line="428" column="37" lean-forward="true" selection-start-line="428" selection-start-column="37" selection-end-line="428" selection-end-column="37" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9350">
+          <caret line="550" column="49" selection-start-line="550" selection-start-column="49" selection-end-line="550" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7259">
+          <caret line="427" lean-forward="true" selection-start-line="427" selection-end-line="427" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8653">
+          <caret line="509" column="49" lean-forward="true" selection-start-line="509" selection-start-column="49" selection-end-line="509" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13107">
+          <caret line="771" selection-start-line="771" selection-end-line="771" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17272">
+          <caret line="1016" selection-start-line="1016" selection-end-line="1016" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21294">
+          <caret line="1016" selection-start-line="1016" selection-end-line="1016" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8505">
+          <caret line="406" column="40" selection-start-line="406" selection-start-column="40" selection-end-line="406" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10122">
+          <caret line="485" selection-start-line="485" selection-end-line="485" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8505">
+          <caret line="406" column="40" lean-forward="true" selection-start-line="406" selection-start-column="40" selection-end-line="406" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="328" selection-start-line="328" selection-end-line="328" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22899">
+          <caret line="1350" column="35" selection-start-line="1350" selection-start-column="35" selection-end-line="1350" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GEDCOM_Project.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17068">
+          <caret line="1004" column="64" lean-forward="true" selection-start-line="1004" selection-start-column="64" selection-end-line="1004" selection-end-column="64" />
+          <folding>
+            <element signature="e#249#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
